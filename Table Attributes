@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <table border="1"> 
+      <tr> 
+        <th rowspan="2">Name</th> 
+        <th colspan="7">Marks</th> 
+        <th rowspan="2">Grade</th> 
+      </tr> 
+     <tr> 
+       <th>Web Technology</th> 
+       <th>Compiler Design</th>
+       <th>Software Defined Network</th>
+       <th>Software Engineering </th>
+       <th>Deep Learning</th>
+       <th>Campus to corprate</th>
+       <th>Cryp. and Netw. Sec.</th>
+     </tr> 
+     <tr align="center"> 
+       <td>Sanjeev Kumari</td> 
+       <td>85</td> 
+       <td>90</td> 
+       <td>99</td>
+       <td>98</td>
+       <td>97</td>
+       <td>93</td>
+       <td>91</td>
+       <td>A</td>
+      </tr> 
+      <tr align="center"> 
+       <td>Annu Tiwari</td> 
+       <td>95</td> 
+       <td>100</td> 
+       <td>99</td>
+       <td>98</td>
+       <td>97</td>
+       <td>93</td>
+       <td>95</td>
+        <td>A+</td>
+     </tr> 
+          <tr align="center"> 
+       <td>Kanishk Bhist</td> 
+       <td>95</td> 
+       <td>100</td> 
+       <td>99</td>
+       <td>98</td>
+       <td>97</td>
+       <td>93</td>
+       <td>95</td>
+       <td>A</td>
+     </tr> 
+    </table>
+</body>
+</html>
