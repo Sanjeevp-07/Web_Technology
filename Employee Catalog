@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Catalog</title>
+</head>
+<body>
+
+<h1>Employee Catalog</h1>
+
+<table border="1" cellspacing="0">
+    <caption><b>Employee and Department Details</b></caption>
+
+    <tr>
+        <th>Department</th>
+        <th>Employee Details</th>
+    </tr>
+
+    <tr>
+        <td>Computer Science</td>
+        <td>
+            <ul>
+                <li>Amit Sharma</li>
+                <ul>
+                    <li>Role: Software Developer</li>
+                    <li>Email: amit@company.com</li>
+                </ul>
+
+                <li>Neha Verma</li>
+                <ul>
+                    <li>Role: Data Analyst</li>
+                    <li>Email: neha@company.com</li>
+                </ul>
+            </ul>
+        </td>
+    </tr>
+
+    <tr>
+        <td>Business Administration</td>
+        <td>
+            <ul>
+                <li>Rahul Mehta</li>
+                <ul>
+                    <li>Role: Marketing Manager</li>
+                    <li>Email: rahul@company.com</li>
+                </ul>
+
+                <li>Pooja Singh</li>
+                <ul>
+                    <li>Role: Finance Executive</li>
+                    <li>Email: pooja@company.com</li>
+                </ul>
+            </ul>
+        </td>
+    </tr>
+
+    <tr>
+        <td>&nbsp;Engineering</td>
+        <td>
+            <table border="1" cellspacing="0">
+                <tr>
+                    <th>Branch</th>
+                    <th>Employees</th>
+                </tr>
+
+                <tr>
+                    <td>Mechanical</td>
+                    <td>
+                        <ul>
+                            <li>Arjun Patel – Design Engineer</li>
+                            <li>Karan Das – Production Engineer</li>
+                        </ul>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Civil</td>
+                    <td>
+                        <ul>
+                            <li>Riya Gupta – Site Engineer</li>
+                            <li>Vikram Rao – Planning Engineer</li>
+                        </ul>
+                    </td>
+                </tr>
+
+            </table>
+        </td>
+    </tr>
+
+</table>
+
+</body>
+</html>
